@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
 
-_Updated 2024-04-16 15:20 CST_
+_Updated 2024-04-18 22:20 CST_
 
 A Python Repository for learning purpose of Coconut-Aero
 
@@ -19,10 +19,11 @@ A Python Repository for learning purpose of Coconut-Aero
 
 包含：
 
-| 序号 | 文件名                  | 描述                                         | 备注   |
-|----|--------------------------|----------------------------------------------|------|
-| 1  | hello-world.py           | Hello World                                  |      |
-| 2  | basic-input-output.py    | 基本输入输出                                  |      |
-
+| 序号  | 文件名                   | 描述          | 备注 |
+|-----|-----------------------|-------------|----|
+| 1   | hello-world.py        | Hello World |    |
+| 2   | basic-input-output.py | 基本输入输出      |    |
+| 3   | time.py               | 显示当前系统时间    |    |
+ 
 
 
