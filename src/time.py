@@ -2,7 +2,6 @@ import time
 
 t = time.time()
 t = int(t)
-print(t)
 totalSEC = int(t)
 totalMIN = int(totalSEC / 60)
 totalHOUR = int(totalMIN / 60)
