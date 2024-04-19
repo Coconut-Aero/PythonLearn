@@ -19,11 +19,11 @@ A Python Repository for learning purpose of Coconut-Aero
 
 包含：
 
-| 序号  | 文件名                   | 描述          | 备注 |
-|-----|-----------------------|-------------|----|
-| 1   | hello-world.py        | Hello World |    |
-| 2   | basic-input-output.py | 基本输入输出      |    |
-| 3   | time.py               | 显示当前系统时间    |    |
- 
+| 序号 | 文件名                   | 描述          | 备注 |
+|----|-----------------------|-------------|----|
+| 1  | hello-world.py        | Hello World |    |
+| 2  | basic-input-output.py | 基本输入输出      |    |
+| 3  | time.py               | 显示当前系统时间    |    |
+| 4  | number-pyramid.py     | 数字金字塔       |    |
 
 
