@@ -1,6 +1,5 @@
 import math
 
-
 def pi(i):
     result = 0
     for j in range(1, i+1):

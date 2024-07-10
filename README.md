@@ -31,3 +31,4 @@ A Python Repository for learning purpose of Coconut-Aero
 | 3  | time.py               | 显示当前系统时间    |    |
 | 4  | number-pyramid.py     | 数字金字塔       |    |
 | 5  | estimate-pi.py        | 计算圆周率       |    |
+| 6  | array-test.py         | 数组测试        |    |
