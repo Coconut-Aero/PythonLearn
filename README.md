@@ -18,13 +18,15 @@
 A Python Repository for learning purpose of Coconut-Aero
 
 
-> [!NOTE] 特别注意
+> [!NOTE] 
+> 特别注意
 > 
 > 您可以自由的使用本仓库，除非您违反 GNU Public License v3.0 协议中的相关内容。
 > 
 > 您可以修改本仓库中的代码，但您保证修改后的代码按照与本仓库类似的方式进行开源。
 
-> [!NOTE] 特别声明 
+> [!NOTE] 
+> 特别声明 
 > 
 > 我们反对Gitee、GitCode及其他类似Git仓库的闭源人工审核机制，为此，我们 **严禁** 使用者将本仓库上传至中国大陆的任何Git仓库中。
 
