@@ -15,9 +15,6 @@
 </div>
 
 
-
-_Updated 2024-10-22 22:00 CST_
-
 A Python Repository for learning purpose of Coconut-Aero
 
 
