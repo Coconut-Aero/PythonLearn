@@ -25,7 +25,7 @@ A Python Repository for learning purpose of Coconut-Aero
 > 
 > 您可以修改本仓库中的代码，但您保证修改后的代码按照与本仓库类似的方式进行开源。
 
-> [!NOTE] 
+> [!IMPORTANT]  
 > 特别声明 
 > 
 > 我们反对Gitee、GitCode及其他类似Git仓库的闭源人工审核机制，为此，我们 **严禁** 使用者将本仓库上传至中国大陆的任何Git仓库中。
